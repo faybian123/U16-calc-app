@@ -1,0 +1,7 @@
+C:\Users\1374879\Desktop\U16 A2 calc app\U16 A2 calc app\obj\Debug\U16 A2 calc app.csprojAssemblyReference.cache
+C:\Users\1374879\Desktop\U16 A2 calc app\U16 A2 calc app\obj\Debug\U16 A2 calc app.csproj.CoreCompileInputs.cache
+C:\Users\1374879\Desktop\U16 A2 calc app\U16 A2 calc app\bin\Debug\U16 A2 calc app.exe.config
+C:\Users\1374879\Desktop\U16 A2 calc app\U16 A2 calc app\bin\Debug\U16 A2 calc app.exe
+C:\Users\1374879\Desktop\U16 A2 calc app\U16 A2 calc app\bin\Debug\U16 A2 calc app.pdb
+C:\Users\1374879\Desktop\U16 A2 calc app\U16 A2 calc app\obj\Debug\U16 A2 calc app.exe
+C:\Users\1374879\Desktop\U16 A2 calc app\U16 A2 calc app\obj\Debug\U16 A2 calc app.pdb
